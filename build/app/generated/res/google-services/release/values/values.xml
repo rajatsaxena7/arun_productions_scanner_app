@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">739749080890</string>
+    <string name="google_api_key" translatable="false">AIzaSyDQgFG-tpjhxxE5HK6tcJoWLvWzu5KoktM</string>
+    <string name="google_app_id" translatable="false">1:739749080890:android:68dc16458953968b482a03</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQgFG-tpjhxxE5HK6tcJoWLvWzu5KoktM</string>
+    <string name="google_storage_bucket" translatable="false">arunproductions.appspot.com</string>
+    <string name="project_id" translatable="false">arunproductions</string>
+</resources>

@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-0 C:\Users\offic\.gradle\caches\transforms-3\40414ceb88bbcc1770532757804d61df\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-1 C:\Users\offic\.gradle\caches\transforms-3\573797091d3241dd112dd1fb0c14477c\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-2 C:\Users\offic\.gradle\caches\transforms-3\b23f9a9f3ec5427b02e9fd9e957cbfc2\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-3 C:\Users\offic\.gradle\caches\transforms-3\b37ad900948d40513213014edbdf60c0\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-8.0.7\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-8.0.7\android\src\release\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 C:\Users\offic\Downloads\arun_productions\arun_productions\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 C:\Users\offic\Downloads\arun_productions\arun_productions\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 C:\Users\offic\Downloads\arun_productions\arun_productions\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 C:\Users\offic\Downloads\arun_productions\arun_productions\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 C:\Users\offic\Downloads\arun_productions\arun_productions\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 C:\Users\offic\Downloads\arun_productions\arun_productions\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 C:\Users\offic\Downloads\arun_productions\arun_productions\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release

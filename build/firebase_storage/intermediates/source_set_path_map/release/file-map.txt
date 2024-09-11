@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-0 C:\Users\offic\.gradle\caches\transforms-3\40414ceb88bbcc1770532757804d61df\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-1 C:\Users\offic\.gradle\caches\transforms-3\573797091d3241dd112dd1fb0c14477c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.3.0-2 C:\Users\offic\.gradle\caches\transforms-3\a242cf9cbd7d6f60b425d5cb6dd84ad2\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.1.0-3 C:\Users\offic\.gradle\caches\transforms-3\ae7b1c3e060a315019a5bad2b4448498\transformed\jetified-play-services-base-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-4 C:\Users\offic\.gradle\caches\transforms-3\b23f9a9f3ec5427b02e9fd9e957cbfc2\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-5 C:\Users\offic\.gradle\caches\transforms-3\b37ad900948d40513213014edbdf60c0\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.3-6 C:\Users\offic\.gradle\caches\transforms-3\ed89eea3941f7626569040f7ca6431e9\transformed\jetified-firebase-common-20.4.3\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.7.5\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.7.5\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 C:\Users\offic\Downloads\arun_productions\arun_productions\build\firebase_storage\intermediates\merged_res\release

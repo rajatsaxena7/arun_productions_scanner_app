@@ -1,0 +1,14 @@
+xyz.luan.audioplayers.audioplayers_android-jetified-annotation-experimental-1.3.0-0 C:\Users\offic\.gradle\caches\transforms-3\040aae7881bfc6fc8c5187e55ada6b7e\transformed\jetified-annotation-experimental-1.3.0\res
+xyz.luan.audioplayers.audioplayers_android-jetified-window-1.0.0-beta04-1 C:\Users\offic\.gradle\caches\transforms-3\40414ceb88bbcc1770532757804d61df\transformed\jetified-window-1.0.0-beta04\res
+xyz.luan.audioplayers.audioplayers_android-jetified-window-java-1.0.0-beta04-2 C:\Users\offic\.gradle\caches\transforms-3\573797091d3241dd112dd1fb0c14477c\transformed\jetified-window-java-1.0.0-beta04\res
+xyz.luan.audioplayers.audioplayers_android-core-1.9.0-3 C:\Users\offic\.gradle\caches\transforms-3\64dd54d97430dc92b9cb694de94cd25b\transformed\core-1.9.0\res
+xyz.luan.audioplayers.audioplayers_android-jetified-core-ktx-1.9.0-4 C:\Users\offic\.gradle\caches\transforms-3\7ea4de479a6605632b1771fb788e5883\transformed\jetified-core-ktx-1.9.0\res
+xyz.luan.audioplayers.audioplayers_android-lifecycle-runtime-2.3.1-5 C:\Users\offic\.gradle\caches\transforms-3\cf42e3b997e83403e7c546b49b1e3f95\transformed\lifecycle-runtime-2.3.1\res
+xyz.luan.audioplayers.audioplayers_android-main-6 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.0.0\android\src\main\res
+xyz.luan.audioplayers.audioplayers_android-release-7 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.0.0\android\src\release\res
+xyz.luan.audioplayers.audioplayers_android-pngs-8 C:\Users\offic\Downloads\arun_productions\arun_productions\build\audioplayers_android\generated\res\pngs\release
+xyz.luan.audioplayers.audioplayers_android-resValues-9 C:\Users\offic\Downloads\arun_productions\arun_productions\build\audioplayers_android\generated\res\resValues\release
+xyz.luan.audioplayers.audioplayers_android-rs-10 C:\Users\offic\Downloads\arun_productions\arun_productions\build\audioplayers_android\generated\res\rs\release
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-11 C:\Users\offic\Downloads\arun_productions\arun_productions\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-12 C:\Users\offic\Downloads\arun_productions\arun_productions\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+xyz.luan.audioplayers.audioplayers_android-merged_res-13 C:\Users\offic\Downloads\arun_productions\arun_productions\build\audioplayers_android\intermediates\merged_res\release

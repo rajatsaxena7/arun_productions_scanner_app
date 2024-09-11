@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739749080890",
+    "project_id": "arunproductions",
+    "storage_bucket": "arunproductions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739749080890:android:68dc16458953968b482a03",
+        "android_client_info": {
+          "package_name": "com.mycompany.arunproductions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgFG-tpjhxxE5HK6tcJoWLvWzu5KoktM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

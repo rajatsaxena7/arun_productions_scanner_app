@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-0 C:\Users\offic\.gradle\caches\transforms-3\40414ceb88bbcc1770532757804d61df\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-1 C:\Users\offic\.gradle\caches\transforms-3\573797091d3241dd112dd1fb0c14477c\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-2 C:\Users\offic\.gradle\caches\transforms-3\b23f9a9f3ec5427b02e9fd9e957cbfc2\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-3 C:\Users\offic\.gradle\caches\transforms-3\b37ad900948d40513213014edbdf60c0\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-main-4 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.2.6\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\offic\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.2.6\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\offic\Downloads\arun_productions\arun_productions\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\offic\Downloads\arun_productions\arun_productions\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\offic\Downloads\arun_productions\arun_productions\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\offic\Downloads\arun_productions\arun_productions\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\offic\Downloads\arun_productions\arun_productions\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\offic\Downloads\arun_productions\arun_productions\build\sqflite\intermediates\merged_res\release
